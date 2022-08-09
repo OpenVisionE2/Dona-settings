@@ -14,6 +14,11 @@ rm -rf *.zip
 rename -f 's/ [^ ]*$//' */
 rename -f 's/@/a/' */
 rename -f 's/,/./' */
+rename -f 's/,/./' */
+rename -f 's/,/./' */
+rename -f 's/,/./' */
+rename -f 's/,/./' */
+rename -f 's/,/./' */
 rename -f 's/\s/_/g' */
 
 find . -name '*satellites.xml*' -type f | xargs rm -f
