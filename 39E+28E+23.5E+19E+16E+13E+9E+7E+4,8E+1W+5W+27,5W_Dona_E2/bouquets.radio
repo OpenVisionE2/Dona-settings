@@ -1,0 +1,14 @@
+#NAME User - Bouquets (Radio)
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.hr____exyu_radio_.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.19_2_e___astra.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.16_0_e___eutelsat_16a.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.13_0_e___hot_bird.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.9_0_e___eutelsat_9a.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.7_0_e___eutelsat_7a.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.4_9_e___astra_4a___ses_5.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.1_0_w___thor_5_6__intelsat_10_02.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.5_0_w___eutelsat_5.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.27_5__w___intelsat_901.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.39_0_e___hellas_sat_2.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.28_2_e___astra_1n_2a_2e_2f__eutelsat_28a.radio" ORDER BY bouquet
+#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.23_5_e___astra_3b.radio" ORDER BY bouquet
